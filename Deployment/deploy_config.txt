@@ -1,5 +1,1 @@
-# 5. Deployment Phase 
-Definition: Moving software from development to Production environment. 
-Models: Manual, Continuous Deployment (CD). 
-Tools: Jenkins (CI/CD), AWS, Kubernetes. 
-Real Incident: Facebook (Meta) 2021 global outage due to configuration change. 
+# Deployment Configuration 
