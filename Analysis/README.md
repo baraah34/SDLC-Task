@@ -1,4 +1,4 @@
-# 1. Analysis Phase 
+1. Analysis Phase 
 Main Goal: To gather, document, and validate the business and technical requirements of the project. 
 Roles Involved: Product Owner, Business Analyst (BA), Project Manager. 
 Tools: Jira, Requirement Workshops. 
